@@ -1,3 +1,4 @@
 esto es una prueba de git
 
 tengo 31 años y quiero convertirme en desarrollador web profesional.
+mi meta es ser web developer junior en un año de estudio en platzi.
