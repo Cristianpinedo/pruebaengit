@@ -1,5 +1,16 @@
 body {
-    color: rgb(221, 31, 221);
+    color: rgb(0, 0, 0);
     font-family: Arial;
+    text-align: center;
+}
+#container {
+    width: 70%;
+    border: 1px solid black;
+    padding: 1em;
+    margin: 0 auto;
+    text-align: left;
+}
+#container h1 {
+    font-size: 1.8em;
     text-align: center;
 }
